@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Four-card-feature-section/static/css/main.4d379c89.css",
-    "main.js": "/Four-card-feature-section/static/js/main.e74331ae.js",
+    "main.css": "/Four-card-feature-section/static/css/main.a382e968.css",
+    "main.js": "/Four-card-feature-section/static/js/main.b5840741.js",
     "static/media/icon-karma.svg": "/Four-card-feature-section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
     "static/media/icon-supervisor.svg": "/Four-card-feature-section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
     "static/media/icon-team-builder.svg": "/Four-card-feature-section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
     "static/media/icon-calculator.svg": "/Four-card-feature-section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
     "index.html": "/Four-card-feature-section/index.html",
-    "main.4d379c89.css.map": "/Four-card-feature-section/static/css/main.4d379c89.css.map",
-    "main.e74331ae.js.map": "/Four-card-feature-section/static/js/main.e74331ae.js.map"
+    "main.a382e968.css.map": "/Four-card-feature-section/static/css/main.a382e968.css.map",
+    "main.b5840741.js.map": "/Four-card-feature-section/static/js/main.b5840741.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d379c89.css",
-    "static/js/main.e74331ae.js"
+    "static/css/main.a382e968.css",
+    "static/js/main.b5840741.js"
   ]
 }

@@ -10,7 +10,7 @@ const CardsDiv = () => {
     <section className="flex flex-col items-center justify-center md:flex-row gap-10 max-w-[1100px] m-auto">
       <div className="flex flex-1 justify-center items-center">
         <Card
-          color={'45d3d3'}
+          borderColor={'border-[#45d3d3]'}
           img={Supervisor}
           title={'Supervisor'}
           desc={'Monitors activity to identify project roadblocks'}
@@ -18,7 +18,7 @@ const CardsDiv = () => {
       </div>
       <div className="flex flex-col flex-1 gap-10 justify-between items-center">
         <Card
-          color={'ea5353'}
+          borderColor={'border-[#ea5353]'}
           img={team}
           title={'Team Builder'}
           desc={
@@ -26,7 +26,7 @@ const CardsDiv = () => {
           }
         />
         <Card
-          color={'fcaf4a'}
+          borderColor={'border-[#fcaf4a]'}
           img={karma}
           title={'Karma'}
           desc={'Regularly evaluates our talent to ensure quality'}
@@ -34,7 +34,7 @@ const CardsDiv = () => {
       </div>
       <div className="flex flex-1 justify-center items-center">
         <Card
-          color={'549ef2'}
+          borderColor={'border-[#549ef2]'}
           img={calc}
           title={'Calculator'}
           desc={

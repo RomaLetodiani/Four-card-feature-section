@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Card = ({ title, desc, img, color }) => {
+const Card = ({ title, desc, img, borderColor }) => {
   return (
     <div
-      className={`p-4 text-[15px] flex flex-col gap-10 shadow-xl max-w-[415px] border-t-4 rounded-lg border-[#${color}]`}
+      className={`p-4 text-[15px] flex flex-col gap-10 shadow-xl max-w-[415px] border-t-4 rounded-lg ${borderColor}`}
     >
       <div>
         <h3 className="text-[#4c4e61]">{title}</h3>
